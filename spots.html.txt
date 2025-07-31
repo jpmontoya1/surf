@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Surf Spots</title>
+  <link rel="stylesheet" href="styles/style.css" />
+</head>
+<body>
+  <header>
+    <h1>My Favorite Surf Spots</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="gear.html">Gear</a></li>
+        <li><a href="community.html">Community</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <img src="images/seaside.jpg" alt="Seaside Reef surf break" />
+    <p>Seaside Reef is one of my favorite spots for clean, consistent waves. Great for practicing turns and learning new maneuvers.</p>
+
+    <p>Other favorites include:</p>
+    <ul>
+      <li><a href="https://magicseaweed.com/Cardiff-Reef-Surf-Report/258/" target="_blank">Cardiff Reef Surf Report</a></li>
+      <li><a href="https://www.surfline.com/surf-report/d-street/5842041f4e65fad6a7708982" target="_blank">D Street Surf Forecast</a></li>
+    </ul>
+  </main>
+  <footer>
+    <p>© 2025 Surfing Hobbyist</p>
+  </footer>
+</body>
+</html>

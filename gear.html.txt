@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Surf Gear</title>
+  <link rel="stylesheet" href="styles/style.css" />
+</head>
+<body>
+  <header>
+    <h1>My Surfing Gear</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="spots.html">Surf Spots</a></li>
+        <li><a href="community.html">Community</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <h2>Simple List: Essential Items</h2>
+    <ul>
+      <li>Surfboard</li>
+      <li>Wetsuit</li>
+      <li>Wax</li>
+      <li>Leash</li>
+    </ul>
+
+    <h2>Complex List: Surfboard Types</h2>
+    <ul>
+      <li>Shortboards
+        <ul>
+          <li>High-performance</li>
+          <li>Fish shapes</li>
+        </ul>
+      </li>
+      <li>Mid-lengths</li>
+      <li>Longboards</li>
+    </ul>
+
+    <h2>Surfboard Comparison Table</h2>
+    <table>
+      <caption>Surfboard Types Comparison</caption>
+      <thead>
+        <tr>
+          <th>Type</th>
+          <th>Best For</th>
+          <th>Size Range</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Shortboard</td>
+          <td>Turns, fast waves</td>
+          <td>5'6" - 6'4"</td>
+        </tr>
+        <tr>
+          <td>Mid-length</td>
+          <td>Versatility</td>
+          <td>6'6" - 8'0"</td>
+        </tr>
+        <tr>
+          <td>Longboard</td>
+          <td>Small waves, cruising</td>
+          <td>8'0" - 10'0"</td>
+        </tr>
+      </tbody>
+    </table>
+  </main>
+  <footer>
+    <p>© 2025 Surfing Hobbyist</p>
+  </footer>
+</body>
+</html>

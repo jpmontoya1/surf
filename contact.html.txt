@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Contact Me</title>
+  <link rel="stylesheet" href="styles/style.css" />
+</head>
+<body>
+  <header>
+    <h1>Contact Me</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="gear.html">Gear</a></li>
+        <li><a href="spots.html">Surf Spots</a></li>
+        <li><a href="community.html">Community</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <form>
+      <label for="name">Name:</label><br />
+      <input type="text" id="name" name="name" required><br />
+
+      <label for="email">Email:</label><br />
+      <input type="email" id="email" name="email" required><br />
+
+      <label for="message">Message:</label><br />
+      <textarea id="message" name="message" rows="4"></textarea><br />
+
+      <button type="submit">Send</button>
+    </form>
+  </main>
+  <footer>
+    <p>© 2025 Surfing Hobbyist</p>
+  </footer>
+</body>
+</html>

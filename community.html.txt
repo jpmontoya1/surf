@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Surfing Community</title>
+  <link rel="stylesheet" href="styles/style.css" />
+</head>
+<body>
+  <header>
+    <h1>Surfing Community & Safety</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="gear.html">Gear</a></li>
+        <li><a href="spots.html">Surf Spots</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <p>Surfing is more fun with friends! I often meet other surfers at local breaks or online forums like:</p>
+    <ul>
+      <li><a href="https://forum.surfer.com" target="_blank">Surfer Forums</a></li>
+      <li><a href="https://www.reddit.com/r/surfing/" target="_blank">Reddit r/Surfing</a></li>
+    </ul>
+
+    <p>Always follow safety tips:
+      <ul>
+        <li>Respect right of way</li>
+        <li>Watch out for riptides</li>
+        <li>Don’t surf alone in unfamiliar areas</li>
+      </ul>
+    </p>
+  </main>
+  <footer>
+    <p>© 2025 Surfing Hobbyist</p>
+  </footer>
+</body>
+</html>

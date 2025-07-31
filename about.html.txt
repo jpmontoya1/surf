@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>About My Surfing Journey</title>
+  <link rel="stylesheet" href="styles/style.css" />
+</head>
+<body>
+  <header>
+    <h1>Why I Surf</h1>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="gear.html">Gear</a></li>
+        <li><a href="spots.html">Surf Spots</a></li>
+        <li><a href="community.html">Community</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+  <main>
+    <img src="images/me-surfing.jpg" alt="Me surfing at Seaside Reef" />
+    <p>I started surfing because I love the ocean and the challenge. Surfing keeps me active, teaches patience, and connects me to nature in a deep way. The feeling of catching a wave is like nothing else.</p>
+  </main>
+  <footer>
+    <p>© 2025 Surfing Hobbyist</p>
+  </footer>
+</body>
+</html>
